@@ -1,4 +1,3 @@
-# Particle_filter_tunning_by_GA_optimization
 
 [//]: # (Image References)
 
